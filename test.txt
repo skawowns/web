@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this my another commit
+=======
+this my again a commit
+>>>>>>> feature
 
 add here we go with comit#2
